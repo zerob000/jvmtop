@@ -4,7 +4,7 @@
 
 **jvmtop** is a pure java console utility which is able to monitor all accessible jvms running on the same machine at once and to display jvm metrics which standard operating system tools cannot provide.
 
-It can be seen as an alternative for the jconsole but because of its **console nature** it can be easilier used in specific environments and has **less requirements** (e.g. X11). **Another advantage** is that jvmtop shows you the most important, live metrics of **all running jvms at once** - in a top-like manner.
+It can be seen as an alternative for the jconsole but because of its **console nature** it can be used more easily in specific environments and has **less requirements** (e.g. X11). **Another advantage** is that jvmtop shows you the most important, live metrics of **all running jvms at once** - in a top-like manner.
 
 
 ## Compatibility ##
